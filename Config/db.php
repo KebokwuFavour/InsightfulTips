@@ -225,7 +225,7 @@ if (mysqli_query($connect_db, $sql10)) {
 }
 
 
-mysqli_close($connect_db);
+//mysqli_close($connect_db);
 
 // $connect_db = mysqli_connect("localhost", "root");
 // if (!$connect_db) {
